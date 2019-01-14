@@ -1,0 +1,25 @@
+{
+  "name": "json-schema-fill",
+  "version": "1.0.0",
+  "description": "Uses JSON Schema to fill missing values in a json",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/talissonf/json-schema-fill.git"
+  },
+  "author": "Talisson Ferreira <talissonf@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/talissonf/json-schema-fill/issues"
+  },
+  "homepage": "https://github.com/talissonf/json-schema-fill#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
