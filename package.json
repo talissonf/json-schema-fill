@@ -1,6 +1,6 @@
 {
   "name": "json-schema-fill",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Uses JSON Schema to fill missing values in a json",
   "main": "lib/index.js",
   "directories": {
